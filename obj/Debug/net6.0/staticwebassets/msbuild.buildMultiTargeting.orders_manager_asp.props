@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\orders_manager_asp.props" />
+</Project>
